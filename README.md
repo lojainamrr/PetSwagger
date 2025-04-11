@@ -1,4 +1,4 @@
-أكيد! ده النص النهائي اللي تحطه مباشرة في ملف README.md:
+
 
 # 🐾 Petstore API Testing Project
 
@@ -105,5 +105,3 @@ Stored in Attachments/:
 ---
 
 
-
-لو حابب أضيف رابط GitHub حقيقي بدل your-username أو تضيف قسم "Future Work" أو "Challenges Faced" قولي.
